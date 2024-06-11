@@ -1,0 +1,151 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    display: flex;
+   box-sizing: border-box;
+  justify-content: flex-end;
+  height: 63px;
+  line-height: 29px;
+  padding: 15px 10px;
+  margin-right: 3rem;
+ 
+}
+nav a{
+    font-family: arial, sans-serif;
+    line-height: normal;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.733);
+
+}
+nav img
+{
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 0.5rem;
+  
+
+}
+.container{
+    max-width: 1140px; 
+    padding-left: 5rem;
+    
+}
+.main{
+    max-width: 1400px;
+}
+
+.main img{
+margin-left: 29rem;
+margin-top: 1rem;
+
+}
+.search{
+    margin-left: 20.7rem;
+   
+
+}
+.ino{
+margin-top: 2rem;
+    border :1px solid rgba(0, 0, 0, 0.13);
+
+    width: 33rem;
+    height: 2.4rem;
+    border-radius: 50px;
+    margin-top: 0.3 rem;
+}
+
+.fa-magnifying-glass{
+    position: absolute;
+    color: rgba(0, 0, 0, 0.315);
+    margin-top: -1.8rem;
+    margin-left: 1rem;
+}
+.fa-microphone{
+    position: absolute;
+    margin-top: -1.8rem;
+    margin-left: 28rem;
+    color: rgba(8, 8, 8, 0.514);
+
+}
+.fa-camera{
+    position: absolute;
+    margin-top: -1.8rem;
+    margin-left: 30rem;
+    color: rgba(0, 0, 0, 0.562);
+
+}
+.buttons{
+    margin-left: 30rem;
+    margin-top: 2rem;
+    
+}
+.buttons button{
+    padding: 8px 8px;
+    background-color: rgba(248, 241, 241, 0.678);
+    border: none;
+    color: rgba(0, 0, 0, 0.555);
+    cursor: pointer;
+}
+.buttons button:hover{
+    border: 1px solid rgba(0, 0, 0, 0.384);
+
+}
+h5{
+    margin-top: 1rem;
+    margin-left:1rem;
+    color: rgba(0, 0, 0, 0.39);
+}
+.pak
+{
+    height: 55px;
+    background-color: rgba(0, 0, 0, 0.041);
+    margin-top: 14rem;
+}
+.pak a{
+    color: rgba(0, 0, 0, 0.699);
+    text-decoration: none;
+    padding: 15px 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.144);
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.about{
+    overflow: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.041);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+    
+    
+
+.sec2{
+    justify-content: space-between;
+}
+
+.sec1 a{
+    color: rgba(0, 0, 0, 0.753);
+    text-decoration: none;
+    padding: 2px 12px;
+
+}
+.sec2 a{
+    color: rgba(0, 0, 0, 0.712);
+    text-decoration: none;
+    padding: 2px 12px;
+}
+.sec2 a:hover{
+    text-decoration: underline;
+}
+.sec1 a:hover{
+    text-decoration: underline;
+}
+.pak a:hover{
+    text-decoration: underline;
+}

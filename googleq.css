@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ @media screen and (max-width:1500px) {
+  .logo img{ 
+        width: 30%;
+        margin-right: 22rem;
+    }
+    .nav{
+        margin-right: 17rem;
+    }
+    .main{
+        margin-right: 5rem;
+    }
+    .buttons{
+        width: 40%;
+        margin-right: 12rem
+    }
+    .logo{
+        margin-right: ;
+    }
+    .ino{
+        max-width: 300%;
+    }
+    .icons{
+        width: 100%;
+    }.fa-magnifying-glass{
+        position: absolute;
+        color: rgba(0, 0, 0, 0.315);
+        margin-top: -1.8rem;
+        margin-left: 1rem;
+    }
+    .fa-microphone{
+        position: absolute;
+        margin-top: -1.8rem;
+        margin-left: 28rem;
+        color: rgba(8, 8, 8, 0.514);
+    
+    }
+    .fa-camera{
+        position: absolute;
+        margin-top: -1.8rem;
+        margin-left: 30rem;
+        color: rgba(0, 0, 0, 0.562);
+    
+    }
+   .pak{
+    margin-top: 22rem;
+   }
+    
+}
+@media screen and (max-width:1000px) {
+.pak{
+    margin-top: 40rem;
+}
+.nav{
+margin-right: 1112rem;
+} 
+}
+@media screen and (max-width:1200px) {
+
+    .nav{
+        margin-right: 15rem;
+    }
+    .pak{
+        margin-top: 24rem;
+    }
+}
+
+@media screen and (max-width:1040px){
+    .nav{
+        margin-right: 14px;
+    }
+}
